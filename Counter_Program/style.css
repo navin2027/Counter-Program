@@ -1,0 +1,25 @@
+.num{
+    border: 5px solid black;
+    border-radius: 50%;
+    width: 280px;
+    height: fit-content;
+    font-size: large;
+    font-size: 280px;
+    color:black;
+    margin-left: 510px;
+    margin-top: 100px;
+    text-align: center;
+}
+#dec,#reset,#inc{
+    background-color: blue;
+    color: white;                       
+    font-size: large;
+    border-radius: 7%;
+    height: 60px;
+    width: 130px;
+    margin-top: 70px;
+    margin-left: 430px;
+}
+#reset,#inc{
+    margin-left: 30px;
+}
